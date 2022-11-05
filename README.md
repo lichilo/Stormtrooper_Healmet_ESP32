@@ -1,5 +1,5 @@
 # stormtrooper_healmet_ESP32
-a star wars helmet with an esp32 that generates a web page with data from an MQ3 sensor (Alcholimeter) and a DHT11 (Temperature and Humidity)
+A star wars helmet with an esp32 that generates a web page with data from an MQ3 sensor (Alcholimeter) and a DHT11 (Temperature and Humidity)
 
 
 
