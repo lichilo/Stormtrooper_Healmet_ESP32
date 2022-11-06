@@ -2,7 +2,6 @@
 A star wars helmet with an esp32 that generates a web page with data from an MQ3 sensor (Alcholimeter) and a DHT11 (Temperature and Humidity)
 
 
-@weed04
 
 
 Helmet design by: KeeptheBOX
